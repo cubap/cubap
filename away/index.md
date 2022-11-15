@@ -1,5 +1,5 @@
 ---
-returnDate: 1673244000000 #2023-01-09
+returnDate: 2023-01-09 #1673244000000
 ---
 
 # Limited Availability
@@ -22,6 +22,6 @@ There are none yet, I just left!
 
 {{ 'now' }}
 
-{{ page.returnDate | minus:'now' }}
+{{ page.returnDate | minus:('now' | date: 'basic') }}
 
-{{ 'now' | date: "%Y %h" }}
+{{ 'now' | date: 'basic' }}
