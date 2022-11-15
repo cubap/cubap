@@ -17,11 +17,3 @@ I will be checking messages, but you should expect at least a week delay. It is 
 ## Updates
 
 There are none yet, I just left!
-
-{{ page.returnDate }}
-
-{{ 'now' }}
-
-{{ page.returnDate | minus:('now' | date: 'basic') }}
-
-{{ 'now' | date: 'basic' }}
