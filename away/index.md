@@ -1,4 +1,5 @@
 ---
+returnDate: 2023-01-09
 ---
 
 # Limited Availability
@@ -16,3 +17,5 @@ I will be checking messages, but you should expect at least a week delay. It is 
 ## Updates
 
 There are none yet, I just left!
+
+{{ page.returnDate | minus:'now' }}
