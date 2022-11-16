@@ -16,4 +16,6 @@ I will be checking messages, but you should expect at least a week delay. It is 
 
 ## Updates
 
-There are none yet, I just left!
+![baby boy](./depiction.jpg)
+
+3490 grams, born 16 November 2022, 8:20am
