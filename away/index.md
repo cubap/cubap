@@ -19,3 +19,5 @@ I will be checking messages, but you should expect at least a week delay. It is 
 ![baby boy](./depiction.jpg)
 
 3490 grams, born 16 November 2022, 8:20am
+
+Arthur Francis Barnard Cuba
