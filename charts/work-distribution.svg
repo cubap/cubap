@@ -2,14 +2,14 @@
   <rect width="820" height="400" fill="#0d1117"/>
   <text x="410.0" y="28" fill="#c9d1d9" font-size="16" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">Work Distribution</text>
   <text x="410.0" y="44" fill="#8b949e" font-size="11" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">Total activity units: 447.9 across 10 weeks</text>
-  <path d="M 200.0,70.0 A 130,130 0 0,1 253.69084299042055,318.394650972829 L 233.0405187633357,272.8582467525102 A 80,80 0 0,0 200.0,120.0 Z" fill="#3b82f6"/>
-  <text x="302.62986195688933" y="181.81641519704615" fill="#0d1117" font-size="11" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">43%</text>
-  <path d="M 253.69084299042055,318.394650972829 A 130,130 0 0,1 70.29767323921229,208.79240768150876 L 120.18318353182295,205.41071241939 A 80,80 0 0,0 233.0405187633357,272.8582467525102 Z" fill="#f59e0b"/>
-  <text x="146.1347380979243" y="294.1306471752023" fill="#0d1117" font-size="11" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">31%</text>
-  <path d="M 70.29767323921229,208.79240768150876 A 130,130 0 0,1 139.51147271612268,84.92985588334552 L 162.77629090222933,129.18760362052032 A 80,80 0 0,0 120.18318353182295,205.41071241939 Z" fill="#10b981"/>
-  <text x="108.3398286488375" y="152.7807361642562" fill="#0d1117" font-size="11" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">18%</text>
-  <path d="M 139.51147271612268,84.92985588334552 A 130,130 0 0,1 199.99999999999997,70.0 L 199.99999999999997,120.0 A 80,80 0 0,0 162.77629090222933,129.18760362052032 Z" fill="#8b5cf6"/>
-  <text x="174.83885312676557" y="102.0592491295874" fill="#0d1117" font-size="11" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">8%</text>
+  <path d="M 200.0,70.0 A 130,130 0 0,1 253.69,318.39 L 233.04,272.86 A 80,80 0 0,0 200.0,120.0 Z" fill="#3b82f6"/>
+  <text x="302.63" y="181.82" fill="#0d1117" font-size="11" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">43%</text>
+  <path d="M 253.69,318.39 A 130,130 0 0,1 70.3,208.79 L 120.18,205.41 A 80,80 0 0,0 233.04,272.86 Z" fill="#f59e0b"/>
+  <text x="146.13" y="294.13" fill="#0d1117" font-size="11" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">31%</text>
+  <path d="M 70.3,208.79 A 130,130 0 0,1 139.51,84.93 L 162.78,129.19 A 80,80 0 0,0 120.18,205.41 Z" fill="#10b981"/>
+  <text x="108.34" y="152.78" fill="#0d1117" font-size="11" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">18%</text>
+  <path d="M 139.51,84.93 A 130,130 0 0,1 200.0,70.0 L 200.0,120.0 A 80,80 0 0,0 162.78,129.19 Z" fill="#8b5cf6"/>
+  <text x="174.84" y="102.06" fill="#0d1117" font-size="11" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">8%</text>
   <text x="200" y="194" fill="#c9d1d9" font-size="22" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">447.9</text>
   <text x="200" y="214" fill="#8b949e" font-size="11" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">total units</text>
   <rect x="400" y="92" width="14" height="14" fill="#3b82f6" rx="3"/>

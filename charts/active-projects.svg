@@ -14,35 +14,35 @@
   <text x="52" y="92.0" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">4</text>
   <line x1="60" y1="50.0" x2="790" y2="50.0" stroke="#30363d" stroke-width="1"/>
   <text x="52" y="54.0" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">5</text>
-  <path d="M 60.0,88.0 141.11111111111111,126.0 222.22222222222223,88.0 303.33333333333337,221.0 384.44444444444446,164.0 465.55555555555554,88.0 546.6666666666667,126.0 627.7777777777778,164.0 708.8888888888889,126.0 790.0,88.0 L 790.0,88.0 L 60.0,88.0 Z" fill="#8b5cf6" opacity="0.15"/>
-  <path d="M 60.0,88.0 141.11111111111111,126.0 222.22222222222223,88.0 303.33333333333337,221.0 384.44444444444446,164.0 465.55555555555554,88.0 546.6666666666667,126.0 627.7777777777778,164.0 708.8888888888889,126.0 790.0,88.0" fill="none" stroke="#8b5cf6" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 60.0,88.0 141.11,126.0 222.22,88.0 303.33,221.0 384.44,164.0 465.56,88.0 546.67,126.0 627.78,164.0 708.89,126.0 790.0,88.0 L 790.0,88.0 L 60.0,88.0 Z" fill="#8b5cf6" opacity="0.15"/>
+  <path d="M 60.0,88.0 141.11,126.0 222.22,88.0 303.33,221.0 384.44,164.0 465.56,88.0 546.67,126.0 627.78,164.0 708.89,126.0 790.0,88.0" fill="none" stroke="#8b5cf6" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
   <circle cx="60.0" cy="88.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
   <text x="60.0" y="78.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">4</text>
   <text x="60.0" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W10</text>
-  <circle cx="141.11111111111111" cy="126.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
-  <text x="141.11111111111111" y="116.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">3</text>
-  <text x="141.11111111111111" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W11</text>
-  <circle cx="222.22222222222223" cy="88.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
-  <text x="222.22222222222223" y="78.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">4</text>
-  <text x="222.22222222222223" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W13</text>
-  <circle cx="303.33333333333337" cy="221.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
-  <text x="303.33333333333337" y="211.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">0.5</text>
-  <text x="303.33333333333337" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W22</text>
-  <circle cx="384.44444444444446" cy="164.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
-  <text x="384.44444444444446" y="154.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">2</text>
-  <text x="384.44444444444446" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W23</text>
-  <circle cx="465.55555555555554" cy="88.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
-  <text x="465.55555555555554" y="78.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">4</text>
-  <text x="465.55555555555554" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W24</text>
-  <circle cx="546.6666666666667" cy="126.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
-  <text x="546.6666666666667" y="116.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">3</text>
-  <text x="546.6666666666667" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W25</text>
-  <circle cx="627.7777777777778" cy="164.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
-  <text x="627.7777777777778" y="154.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">2</text>
-  <text x="627.7777777777778" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W26</text>
-  <circle cx="708.8888888888889" cy="126.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
-  <text x="708.8888888888889" y="116.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">3</text>
-  <text x="708.8888888888889" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W27</text>
+  <circle cx="141.11" cy="126.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
+  <text x="141.11" y="116.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">3</text>
+  <text x="141.11" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W11</text>
+  <circle cx="222.22" cy="88.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
+  <text x="222.22" y="78.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">4</text>
+  <text x="222.22" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W13</text>
+  <circle cx="303.33" cy="221.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
+  <text x="303.33" y="211.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">0.5</text>
+  <text x="303.33" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W22</text>
+  <circle cx="384.44" cy="164.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
+  <text x="384.44" y="154.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">2</text>
+  <text x="384.44" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W23</text>
+  <circle cx="465.56" cy="88.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
+  <text x="465.56" y="78.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">4</text>
+  <text x="465.56" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W24</text>
+  <circle cx="546.67" cy="126.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
+  <text x="546.67" y="116.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">3</text>
+  <text x="546.67" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W25</text>
+  <circle cx="627.78" cy="164.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
+  <text x="627.78" y="154.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">2</text>
+  <text x="627.78" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W26</text>
+  <circle cx="708.89" cy="126.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
+  <text x="708.89" y="116.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">3</text>
+  <text x="708.89" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W27</text>
   <circle cx="790.0" cy="88.0" r="4" fill="#8b5cf6" stroke="#0d1117" stroke-width="2"/>
   <text x="790.0" y="78.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">4</text>
   <text x="790.0" y="256" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W28</text>
