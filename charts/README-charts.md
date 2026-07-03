@@ -32,7 +32,7 @@
 ### Data Notes
 - **W12** (Mar 16-22): No weekly review data — tracking gap
 - **W14-W21** (Mar 30 – May 24): 8-week spring/summer break gap
-- **W22** (May 25-31): 64-day aggregated catch-up, not comparable to weekly values
+- **W22** (May 25-31): 64-day aggregated catch-up — shown as weekly average to prevent visual spike
 - **W27** (Jun 26-Jul 2): Partial — GitHub only, no email review
 - Backfilled weeks use automated review summaries; contacts/meetings are lower bounds
 - Email scan volume is tracked separately — it's inbox throughput, not active communication

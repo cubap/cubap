@@ -5,33 +5,33 @@
   <line x1="60" y1="280" x2="790" y2="280" stroke="#30363d" stroke-width="1"/>
   <text x="52" y="284" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">0</text>
   <line x1="60" y1="223" x2="790" y2="223" stroke="#30363d" stroke-width="1"/>
-  <text x="52" y="227" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">125</text>
+  <text x="52" y="227" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">50</text>
   <line x1="60" y1="165" x2="790" y2="165" stroke="#30363d" stroke-width="1"/>
-  <text x="52" y="169" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">250</text>
+  <text x="52" y="169" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">100</text>
   <line x1="60" y1="108" x2="790" y2="108" stroke="#30363d" stroke-width="1"/>
-  <text x="52" y="112" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">375</text>
+  <text x="52" y="112" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">150</text>
   <line x1="60" y1="50" x2="790" y2="50" stroke="#30363d" stroke-width="1"/>
-  <text x="52" y="54" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">500</text>
-  <path d="M 60.0,237.22 141.11111111111111,233.54 222.22222222222223,245.04 303.33333333333337,81.74000000000001 384.44444444444446,260.68 465.55555555555554,236.76 546.6666666666667,227.1 627.7777777777778,242.74 708.8888888888889,280.0 790.0,229.86" fill="none" stroke="#10b981" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M 60.0,270.8 141.11111111111111,268.96 222.22222222222223,272.64 303.33333333333337,274.48 384.44444444444446,276.78 465.55555555555554,279.54 546.6666666666667,277.24 627.7777777777778,279.54 708.8888888888889,280.0 790.0,280.0" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-  <circle cx="60.0" cy="237.22" r="3" fill="#10b981"/>
-  <circle cx="141.11111111111111" cy="233.54" r="3" fill="#10b981"/>
-  <circle cx="222.22222222222223" cy="245.04" r="3" fill="#10b981"/>
-  <circle cx="303.33333333333337" cy="81.74000000000001" r="3" fill="#10b981"/>
-  <circle cx="384.44444444444446" cy="260.68" r="3" fill="#10b981"/>
-  <circle cx="465.55555555555554" cy="236.76" r="3" fill="#10b981"/>
-  <circle cx="546.6666666666667" cy="227.1" r="3" fill="#10b981"/>
-  <circle cx="627.7777777777778" cy="242.74" r="3" fill="#10b981"/>
+  <text x="52" y="54" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">200</text>
+  <path d="M 60.0,173.05 141.11111111111111,163.85 222.22222222222223,192.6 303.33333333333337,225.83499999999998 384.44444444444446,231.7 465.55555555555554,171.9 546.6666666666667,147.75 627.7777777777778,186.85 708.8888888888889,280.0 790.0,154.64999999999998" fill="none" stroke="#10b981" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 60.0,257.0 141.11111111111111,252.4 222.22222222222223,261.6 303.33333333333337,278.505 384.44444444444446,271.95 465.55555555555554,278.85 546.6666666666667,273.1 627.7777777777778,278.85 708.8888888888889,280.0 790.0,280.0" fill="none" stroke="#f59e0b" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="60.0" cy="173.05" r="3" fill="#10b981"/>
+  <circle cx="141.11111111111111" cy="163.85" r="3" fill="#10b981"/>
+  <circle cx="222.22222222222223" cy="192.6" r="3" fill="#10b981"/>
+  <circle cx="303.33333333333337" cy="225.83499999999998" r="3" fill="#10b981"/>
+  <circle cx="384.44444444444446" cy="231.7" r="3" fill="#10b981"/>
+  <circle cx="465.55555555555554" cy="171.9" r="3" fill="#10b981"/>
+  <circle cx="546.6666666666667" cy="147.75" r="3" fill="#10b981"/>
+  <circle cx="627.7777777777778" cy="186.85" r="3" fill="#10b981"/>
   <circle cx="708.8888888888889" cy="280.0" r="3" fill="#10b981"/>
-  <circle cx="790.0" cy="229.86" r="3" fill="#10b981"/>
-  <circle cx="60.0" cy="270.8" r="3" fill="#f59e0b"/>
-  <circle cx="141.11111111111111" cy="268.96" r="3" fill="#f59e0b"/>
-  <circle cx="222.22222222222223" cy="272.64" r="3" fill="#f59e0b"/>
-  <circle cx="303.33333333333337" cy="274.48" r="3" fill="#f59e0b"/>
-  <circle cx="384.44444444444446" cy="276.78" r="3" fill="#f59e0b"/>
-  <circle cx="465.55555555555554" cy="279.54" r="3" fill="#f59e0b"/>
-  <circle cx="546.6666666666667" cy="277.24" r="3" fill="#f59e0b"/>
-  <circle cx="627.7777777777778" cy="279.54" r="3" fill="#f59e0b"/>
+  <circle cx="790.0" cy="154.64999999999998" r="3" fill="#10b981"/>
+  <circle cx="60.0" cy="257.0" r="3" fill="#f59e0b"/>
+  <circle cx="141.11111111111111" cy="252.4" r="3" fill="#f59e0b"/>
+  <circle cx="222.22222222222223" cy="261.6" r="3" fill="#f59e0b"/>
+  <circle cx="303.33333333333337" cy="278.505" r="3" fill="#f59e0b"/>
+  <circle cx="384.44444444444446" cy="271.95" r="3" fill="#f59e0b"/>
+  <circle cx="465.55555555555554" cy="278.85" r="3" fill="#f59e0b"/>
+  <circle cx="546.6666666666667" cy="273.1" r="3" fill="#f59e0b"/>
+  <circle cx="627.7777777777778" cy="278.85" r="3" fill="#f59e0b"/>
   <circle cx="708.8888888888889" cy="280.0" r="3" fill="#f59e0b"/>
   <circle cx="790.0" cy="280.0" r="3" fill="#f59e0b"/>
   <text x="60.0" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W10</text>
