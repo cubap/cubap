@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 340" width="820" height="340">
   <rect width="820" height="340" fill="#0d1117"/>
-  <text x="410.0" y="28" fill="#c9d1d9" font-size="16" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">Teaching & Service Proxy</text>
+  <text x="410.0" y="28" fill="#c9d1d9" font-size="16" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">Teaching &amp; Service Proxy</text>
   <text x="410.0" y="44" fill="#8b949e" font-size="11" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">Meetings identified and contacts touched per week</text>
   <line x1="60" y1="280.0" x2="790" y2="280.0" stroke="#30363d" stroke-width="1"/>
   <text x="52" y="284.0" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">0</text>
