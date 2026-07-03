@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 340" width="820" height="340">
+  <rect width="820" height="340" fill="#0d1117"/>
+  <text x="410.0" y="28" fill="#c9d1d9" font-size="16" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">Teaching & Service Proxy</text>
+  <text x="410.0" y="44" fill="#8b949e" font-size="11" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">Meetings identified and contacts touched per week</text>
+  <line x1="60" y1="280.0" x2="790" y2="280.0" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="284.0" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">0</text>
+  <line x1="60" y1="271.15384615384613" x2="790" y2="271.15384615384613" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="275.15384615384613" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">1</text>
+  <line x1="60" y1="262.3076923076923" x2="790" y2="262.3076923076923" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="266.3076923076923" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">2</text>
+  <line x1="60" y1="253.46153846153845" x2="790" y2="253.46153846153845" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="257.46153846153845" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">3</text>
+  <line x1="60" y1="244.6153846153846" x2="790" y2="244.6153846153846" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="248.6153846153846" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">4</text>
+  <line x1="60" y1="235.76923076923077" x2="790" y2="235.76923076923077" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="239.76923076923077" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">5</text>
+  <line x1="60" y1="226.9230769230769" x2="790" y2="226.9230769230769" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="230.9230769230769" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">6</text>
+  <line x1="60" y1="218.0769230769231" x2="790" y2="218.0769230769231" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="222.0769230769231" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">7</text>
+  <line x1="60" y1="209.23076923076923" x2="790" y2="209.23076923076923" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="213.23076923076923" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">8</text>
+  <line x1="60" y1="200.3846153846154" x2="790" y2="200.3846153846154" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="204.3846153846154" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">9</text>
+  <line x1="60" y1="191.53846153846155" x2="790" y2="191.53846153846155" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="195.53846153846155" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">10</text>
+  <line x1="60" y1="182.69230769230768" x2="790" y2="182.69230769230768" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="186.69230769230768" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">11</text>
+  <line x1="60" y1="173.84615384615384" x2="790" y2="173.84615384615384" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="177.84615384615384" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">12</text>
+  <line x1="60" y1="165.0" x2="790" y2="165.0" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="169.0" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">13</text>
+  <line x1="60" y1="156.15384615384616" x2="790" y2="156.15384615384616" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="160.15384615384616" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">14</text>
+  <line x1="60" y1="147.30769230769232" x2="790" y2="147.30769230769232" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="151.30769230769232" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">15</text>
+  <line x1="60" y1="138.46153846153845" x2="790" y2="138.46153846153845" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="142.46153846153845" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">16</text>
+  <line x1="60" y1="129.6153846153846" x2="790" y2="129.6153846153846" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="133.6153846153846" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">17</text>
+  <line x1="60" y1="120.76923076923077" x2="790" y2="120.76923076923077" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="124.76923076923077" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">18</text>
+  <line x1="60" y1="111.92307692307693" x2="790" y2="111.92307692307693" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="115.92307692307693" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">19</text>
+  <line x1="60" y1="103.07692307692307" x2="790" y2="103.07692307692307" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="107.07692307692307" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">20</text>
+  <line x1="60" y1="94.23076923076923" x2="790" y2="94.23076923076923" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="98.23076923076923" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">21</text>
+  <line x1="60" y1="85.38461538461539" x2="790" y2="85.38461538461539" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="89.38461538461539" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">22</text>
+  <line x1="60" y1="76.53846153846155" x2="790" y2="76.53846153846155" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="80.53846153846155" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">23</text>
+  <line x1="60" y1="67.69230769230768" x2="790" y2="67.69230769230768" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="71.69230769230768" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">24</text>
+  <line x1="60" y1="58.84615384615384" x2="790" y2="58.84615384615384" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="62.84615384615384" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">25</text>
+  <line x1="60" y1="50.0" x2="790" y2="50.0" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="54.0" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">26</text>
+  <rect x="74.6" y="103.07692307692307" width="21.9" height="176.92307692307693" fill="#f59e0b" rx="2"/>
+  <rect x="98.5" y="253.46153846153845" width="21.9" height="26.53846153846154" fill="#10b981" rx="2"/>
+  <text x="108.44999999999999" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W10</text>
+  <rect x="147.6" y="67.69230769230768" width="21.9" height="212.30769230769232" fill="#f59e0b" rx="2"/>
+  <rect x="171.5" y="280.0" width="21.9" height="0.0" fill="#10b981" rx="2"/>
+  <text x="181.45" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W11</text>
+  <rect x="220.6" y="138.46153846153845" width="21.9" height="141.53846153846155" fill="#f59e0b" rx="2"/>
+  <rect x="244.5" y="280.0" width="21.9" height="0.0" fill="#10b981" rx="2"/>
+  <text x="254.45" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W13</text>
+  <rect x="293.6" y="173.84615384615384" width="21.9" height="106.15384615384616" fill="#f59e0b" rx="2"/>
+  <rect x="317.5" y="280.0" width="21.9" height="0.0" fill="#10b981" rx="2"/>
+  <text x="327.45000000000005" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W22</text>
+  <rect x="366.6" y="218.0769230769231" width="21.9" height="61.92307692307692" fill="#f59e0b" rx="2"/>
+  <rect x="390.5" y="280.0" width="21.9" height="0.0" fill="#10b981" rx="2"/>
+  <text x="400.45000000000005" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W23</text>
+  <rect x="439.6" y="271.15384615384613" width="21.9" height="8.846153846153847" fill="#f59e0b" rx="2"/>
+  <rect x="463.5" y="253.46153846153845" width="21.9" height="26.53846153846154" fill="#10b981" rx="2"/>
+  <text x="473.45000000000005" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W24</text>
+  <rect x="512.6" y="226.9230769230769" width="21.9" height="53.07692307692308" fill="#f59e0b" rx="2"/>
+  <rect x="536.5" y="280.0" width="21.9" height="0.0" fill="#10b981" rx="2"/>
+  <text x="546.45" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W25</text>
+  <rect x="585.6" y="271.15384615384613" width="21.9" height="8.846153846153847" fill="#f59e0b" rx="2"/>
+  <rect x="609.5" y="280.0" width="21.9" height="0.0" fill="#10b981" rx="2"/>
+  <text x="619.45" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W26</text>
+  <rect x="658.6" y="280.0" width="21.9" height="0.0" fill="#f59e0b" rx="2"/>
+  <rect x="682.5" y="280.0" width="21.9" height="0.0" fill="#10b981" rx="2"/>
+  <text x="692.45" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W27</text>
+  <rect x="731.6" y="280.0" width="21.9" height="0.0" fill="#f59e0b" rx="2"/>
+  <rect x="755.5" y="280.0" width="21.9" height="0.0" fill="#10b981" rx="2"/>
+  <text x="765.45" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W28</text>
+  <rect x="580" y="304" width="10" height="10" fill="#f59e0b" rx="2"/>
+  <text x="594" y="308" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="start" font-family="system-ui, -apple-system, sans-serif">Meetings identified</text>
+  <rect x="580" y="320" width="10" height="10" fill="#10b981" rx="2"/>
+  <text x="594" y="324" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="start" font-family="system-ui, -apple-system, sans-serif">Contacts touched</text>
+  <text x="410.0" y="338" fill="#8b949e" font-size="8" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">Low values suggest meetings/contacts aren't being captured — consider manual enrichment</text>
+</svg>

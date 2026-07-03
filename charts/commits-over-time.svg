@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 340" width="820" height="340">
+  <rect width="820" height="340" fill="#0d1117"/>
+  <text x="410.0" y="28" fill="#c9d1d9" font-size="16" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">Commits Per Week</text>
+  <text x="410.0" y="44" fill="#8b949e" font-size="11" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">Your commit activity across tracked weeks</text>
+  <line x1="60" y1="280" x2="790" y2="280" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="284" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">0</text>
+  <line x1="60" y1="223" x2="790" y2="223" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="227" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">50</text>
+  <line x1="60" y1="165" x2="790" y2="165" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="169" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">100</text>
+  <line x1="60" y1="108" x2="790" y2="108" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="112" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">150</text>
+  <line x1="60" y1="50" x2="790" y2="50" stroke="#30363d" stroke-width="1"/>
+  <text x="52" y="54" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="end" font-family="system-ui, -apple-system, sans-serif">200</text>
+  <path d="M 60.0,270.8 141.11111111111111,280.0 222.22222222222223,245.5 303.33333333333337,94.85 384.44444444444446,273.1 465.55555555555554,250.1 546.6666666666667,214.45 627.7777777777778,265.05 708.8888888888889,265.05 790.0,253.55 L 790.0,253.55 L 60.0,253.55 Z" fill="#3b82f6" opacity="0.15"/>
+  <path d="M 60.0,270.8 141.11111111111111,280.0 222.22222222222223,245.5 303.33333333333337,94.85 384.44444444444446,273.1 465.55555555555554,250.1 546.6666666666667,214.45 627.7777777777778,265.05 708.8888888888889,265.05 790.0,253.55" fill="none" stroke="#3b82f6" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="60.0" cy="270.8" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2"/>
+  <text x="60.0" y="260.8" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">8</text>
+  <text x="60.0" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W10</text>
+  <circle cx="141.11111111111111" cy="280.0" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2"/>
+  <text x="141.11111111111111" y="270.0" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">0</text>
+  <text x="141.11111111111111" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W11</text>
+  <circle cx="222.22222222222223" cy="245.5" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2"/>
+  <text x="222.22222222222223" y="235.5" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">30</text>
+  <text x="222.22222222222223" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W13</text>
+  <circle cx="303.33333333333337" cy="94.85" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2"/>
+  <text x="303.33333333333337" y="84.85" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">161</text>
+  <text x="303.33333333333337" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W22</text>
+  <circle cx="384.44444444444446" cy="273.1" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2"/>
+  <text x="384.44444444444446" y="263.1" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">6</text>
+  <text x="384.44444444444446" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W23</text>
+  <circle cx="465.55555555555554" cy="250.1" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2"/>
+  <text x="465.55555555555554" y="240.1" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">26</text>
+  <text x="465.55555555555554" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W24</text>
+  <circle cx="546.6666666666667" cy="214.45" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2"/>
+  <text x="546.6666666666667" y="204.45" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">57</text>
+  <text x="546.6666666666667" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W25</text>
+  <circle cx="627.7777777777778" cy="265.05" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2"/>
+  <text x="627.7777777777778" y="255.05" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">13</text>
+  <text x="627.7777777777778" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W26</text>
+  <circle cx="708.8888888888889" cy="265.05" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2"/>
+  <text x="708.8888888888889" y="255.05" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">13</text>
+  <text x="708.8888888888889" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W27</text>
+  <circle cx="790.0" cy="253.55" r="4" fill="#3b82f6" stroke="#0d1117" stroke-width="2"/>
+  <text x="790.0" y="243.55" fill="#c9d1d9" font-size="10" font-weight="bold" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">23</text>
+  <text x="790.0" y="296" fill="#8b949e" font-size="10" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W28</text>
+  <text x="410.0" y="330" fill="#8b949e" font-size="9" font-weight="normal" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif">W12 gap (no data) · W22: 64-day catch-up (161 commits aggregated)</text>
+</svg>
