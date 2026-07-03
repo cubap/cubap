@@ -1,1 +1,1 @@
-![stat block](https://github-readme-stats.vercel.app/api?username=cubap&show_icons=true&hide_border=true)
+![stat block](https://github-stats-extended.vercel.app/api?username=cubap&show_icons=true&hide_border=true)
